@@ -15,4 +15,4 @@ The input file (.txt) should contain the following aerosol intensive properties:
 
 ## 2. OEM routine 
 
-The OEM routine starts with an initial guess for the state vector. The initial guess is assigned automatically and it is the result of a decision tree. 
+The OEM routine starts with an initial guess for the state vector. The initial guess is assigned automatically and it is the result of a decision tree (code><b>des_tree.m</b></code>). 
