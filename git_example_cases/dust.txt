@@ -1,0 +1,6 @@
+0.24	0.06	
+58	11
+NaN NaN
+NaN NaN
+NaN NaN
+NaN NaN
