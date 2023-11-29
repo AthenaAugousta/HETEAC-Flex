@@ -4,7 +4,7 @@
 The input file (.txt) should contain the following aerosol intensive properties:  
 - Particle linear depolarization ratio at 355 nm along with the corresponding uncertainty 
 - Lidar ratio at 355 nm along with the corresponding uncertainty 
-- Extinction-related Angstroem exponent along with the corresponding uncertainty
+- Extinction-related Ångström exponent along with the corresponding uncertainty
 - Particle linear depolarization ratio at 532 nm along with the corresponding uncertainty
 - Lidar ratio at 532 nm along with the corresponding uncertainty
 - Backscatter-related color ratio (at the wavelength pair of 532/1064 nm) along with the corresponding uncertainty
