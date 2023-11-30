@@ -17,6 +17,13 @@ The input file (.txt) should contain the following aerosol intensive properties:
 
 The OEM routine (<code><b>HETEAC_Flex_main.m</b></code>) starts with an initial guess for the state vector. The initial guess is assigned automatically and it is the result of a decision tree (<code><b>des_tree.m</b></code>). Configuration settings can be easily adjusted (<code><b>config.m</b></code>).
 
+## 3. Run HETEAC-Flex
+
+To run HETEAC-Flex you need to create a directory within your MATLAB path and place everything there, i.e., the code, the input file(s) and the accompanying functions. Please note that you can only run several cases per retrieval mode at the time and not several retrieval modes per case.
+
+
+
+
 ## Further details in:
 Floutsi, A. A., Baars, H., and Wandinger, U.: HETEAC-Flex: An optimal estimation method for aerosol typing based on lidar-derived intensive optical properties, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2023-1880, 2023. 
 
