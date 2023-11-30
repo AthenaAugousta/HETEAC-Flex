@@ -19,7 +19,7 @@ The OEM routine (<code><b>HETEAC_Flex_main.m</b></code>) starts with an initial 
 
 ## 3. Run HETEAC-Flex
 
-To run HETEAC-Flex you need to create a directory within your MATLAB path and place everything there, i.e., the code, the input file(s) and the accompanying functions. Please note that you can only run several cases per retrieval mode at the time and not several retrieval modes per case.
+To run HETEAC-Flex you need to create a directory within your MATLAB path and place everything there, i.e., the code, the input file(s) and the accompanying functions. Afterwards execute the main programm (<code><b>HETEAC_Flex_main.m</b></code>). Please note that you can only run several cases per retrieval mode at the time and not several retrieval modes per case. 
 
 
 
