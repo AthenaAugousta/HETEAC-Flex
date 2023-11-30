@@ -13,9 +13,8 @@ clear all; close all; clc;
 config
 
 tic
-% myFolder =  '';
-filePattern = fullfile('./', '*.txt'); % add path to specific folder containing input files
-input_file = dir(filePattern); % if not in dir, use the folder command above
+filePattern = fullfile('./', '*.txt'); % fulfilment criterion for input files 
+input_file = dir(filePattern); 
 NumbMeas  = length(input_file);  % number of input files
 
 for k = 1:NumbMeas
